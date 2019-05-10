@@ -1,0 +1,4 @@
+E:\TestProject\WebCore1\WebCore1Test\obj\Debug\netcoreapp2.1\WebCore1Test.csprojAssemblyReference.cache
+E:\TestProject\WebCore1\WebCore1Test\obj\Debug\netcoreapp2.1\WebCore1Test.csproj.CoreCompileInputs.cache
+E:\TestProject\WebCore1\WebCore1Test\obj\Debug\netcoreapp2.1\WebCore1Test.AssemblyInfoInputs.cache
+E:\TestProject\WebCore1\WebCore1Test\obj\Debug\netcoreapp2.1\WebCore1Test.AssemblyInfo.cs
